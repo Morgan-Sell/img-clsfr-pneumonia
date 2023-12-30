@@ -169,4 +169,6 @@ test.lst
 # SageMaker
 .sagemaker
 .local
+.jupyter
+.virtual_documents
 
